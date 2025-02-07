@@ -1,4 +1,6 @@
 ---  
+layout: post  
+---  
 title: "OpenAI vs. Claude 3: Which AI API Saves Startups the Most Money?"  
 date: 2024-07-15  
 author: FoundersAITools  
