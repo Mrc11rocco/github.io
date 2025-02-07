@@ -1,0 +1,6 @@
+title: "FoundersAITools"  
+description: "AI Tools for Startup Founders Who Mean Business"  
+url: "https://foundersaitools.com"  
+theme: minima  
+plugins:  
+  - jekyll-feed  
