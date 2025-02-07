@@ -1,6 +1,6 @@
 title: "FoundersAITools"  
 description: "AI Tools for Startup Founders Who Mean Business"  
 url: "https://foundersaitools.com"  
-theme: minima  
+theme: jekyll-theme-cayman  # Clean, modern, free theme  
 plugins:  
-  - jekyll-feed  
+  - jekyll-feed 
