@@ -1,0 +1,14 @@
+header {  
+  padding: 2rem;  
+  text-align: center;  
+  background: #f8f9fa;  
+}  
+nav a {  
+  margin: 0 1rem;  
+  color: #2d3436;  
+}  
+.post-content {  
+  max-width: 800px;  
+  margin: 0 auto;  
+  padding: 2rem;  
+}  
